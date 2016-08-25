@@ -3,7 +3,7 @@ rule marcher
 	meta:
 		description = "This rule detects a variant of Marcher"
 		sample = "6c15fcdcee665dd38a24931da27b1e16c0b15de832d968bf5891d8e389a32d3e"
-		author = "vmel"
+		author = "strobostro"
 
 	strings:
 		$a = "com.note.donote" wide
